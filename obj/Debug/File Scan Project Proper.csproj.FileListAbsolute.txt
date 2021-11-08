@@ -1,0 +1,73 @@
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.exe.config
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.exe
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.pdb
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csprojAssemblyReference.cache
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Form1.resources
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Form2.resources
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Properties.Resources.resources
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csproj.GenerateResource.cache
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.exe
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.pdb
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.FileScanMenu.resources
+C:\Users\Local User\Documents\A Levels\Computer Science\Programming Project\Programming\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.FileScanFunction.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.exe.config
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.exe
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\File Scan Project Proper.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csprojAssemblyReference.cache
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Form1.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Form2.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.FileScanMenu.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.FileScanFunction.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Properties.Resources.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csproj.GenerateResource.cache
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csproj.CoreCompileInputs.cache
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.exe
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Database1.mdf
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Database1_log.ldf
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Dapper.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.Permissions.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Dapper.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.Permissions.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File Scan Project Proper.csproj.CopyComplete
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Admin.Directory.directory_v1.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Core.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Admin.Directory.directory_v1.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Admin.Directory.directory_v1.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Google.Apis.Core.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Tutorial.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\obj\Debug\File_Scan_Project_Proper.Feedback.resources
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\CsvHelper.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Buffers.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Memory.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\CsvHelper.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Buffers.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Memory.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Local User\Desktop\Final Version\File Scan Project Proper\bin\Debug\System.Threading.Tasks.Extensions.xml
